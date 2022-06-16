@@ -8,23 +8,23 @@ pip install virtualenv
 
 ii) Download the attached project & change directory to the "notable-health"
 
-   ```cd <your folder>\notable-health```
+   ```cd <<your folder>>\notable-health```
 
 iii) Create virtual environment
-       virtualenv env
+      ``` virtualenv env ```
 
 iv) Change directory to scripts folder.
-        cd env/Scripts
+       ``` cd env/Scripts ```
 
 v) Activate virtual environment .  
-       activate
+       ``` activate ```
 
 vi) Change directory to Django Application folder.
-       cd ../../doctorapp
+       ``` cd ../../doctorapp ```
 
 vii) Install dependencies 
 
-      pip install -r requirements.txt
+      ``` pip install -r requirements.txt ```
 
 viii) Run the below commands for migrations.
     python manage.py makemigrations
