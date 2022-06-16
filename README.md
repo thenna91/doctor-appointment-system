@@ -8,7 +8,7 @@ pip install virtualenv
 
 ii) Download the attached project & change directory to the "notable-health"
 
-cd <<your folder>>\notable-health
+cd <your folder>\notable-health
 
 iii) Create virtual environment
        virtualenv env
