@@ -24,7 +24,7 @@ vi) Change directory to Django Application folder.
 
 vii) Install dependencies 
 
-      ``` pip install -r requirements.txt ```
+      pip install -r requirements.txt
 
 viii) Run the below commands for migrations.
     python manage.py makemigrations
@@ -36,4 +36,4 @@ ix) Create a user to access Admin URL.
      python manage.py createsuperuser
 
 x) Run the django Project
-    python manage.py runserver
+    ```python manage.py runserver ```
