@@ -1,8 +1,8 @@
 from django.urls import path,include
 from .views import doctorlist,listappoinment,listappoinmentbydoctor,deleteappointment,createappointment
-#,,deleteappoinment,newappointment
 
 urlpatterns = [
+    path('', doctorlist.as_view()),
     path('physicians/', doctorlist.as_view()),
     path('listappoinment/<int:id>',listappoinmentbydoctor.as_view()),
     path('listappoinment/',listappoinment.as_view()),

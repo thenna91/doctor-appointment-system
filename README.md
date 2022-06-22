@@ -1,13 +1,12 @@
-
-Below are the steps to run the Django Project.
+Steps to run the Django Project in windows.
 
 i) To install Virtual Environment package , execute below command in command prompt.
 
 pip install virtualenv
 
-ii) Download the attached project & change directory to the "notable-health"
+ii) Download the attached project & change directory to the "doctor-appointment-system"
 
-   ```cd <<your folder>>\notable-health```
+   ```cd <<your folder>>\doctor-appointment-system```
 
 iii) Create virtual environment
       ``` virtualenv env ```
