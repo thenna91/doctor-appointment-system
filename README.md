@@ -1,4 +1,3 @@
-# notable-health
 
 Below are the steps to run the Django Project.
 
