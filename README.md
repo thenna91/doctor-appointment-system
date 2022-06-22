@@ -1,9 +1,13 @@
 doctor-appointment-system application developed with Django restframework.
 
-Using this application
+Using this application:
 
 i) we can add,delete,update & view doctors.
-i) we can add,delete,update & view appointments for a doctor.
+
+ii) we can add,delete,update & view appointments for a doctor.
+
+
+**************************************************************************************************************************************
 
 Steps to run doctor-appointment-system in windows.
 
