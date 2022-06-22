@@ -10,19 +10,19 @@ ii) Download the attached project & change directory to the "doctor-appointment-
 
 iii) Create virtual environment
 
-      ``` virtualenv env ```
+      ```virtualenv env```
 
 iv) Change directory to scripts folder.
 
-       ``` cd env/Scripts ```
+       ```cd env/Scripts```
 
 v) Activate virtual environment .  
 
-       ``` activate ```
+       ```activate```
 
 vi) Change directory to Django Application folder.
 
-       ``` cd ../../doctorapp ```
+       ```cd ../../doctorapp```
 
 vii) Install dependencies 
 
@@ -30,8 +30,8 @@ vii) Install dependencies
 
 viii) Run the below commands for migrations.
 
-    ```python manage.py makemigrations
-       python manage.py migrate --run-syncdb ```
+    ```python manage.py makemigrations```
+       ```python manage.py migrate --run-syncdb```
 
 ix) Create a user to access Admin URL.
 
@@ -39,4 +39,4 @@ ix) Create a user to access Admin URL.
 
 x) Run the django Project
 
-    ```python manage.py runserver ```
+    ```python manage.py runserver```
