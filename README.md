@@ -1,4 +1,11 @@
-Steps to run the Django Project in windows.
+doctor-appointment-system application developed with Django restframework.
+
+Using this application
+
+i) we can add,delete,update & view doctors.
+i) we can add,delete,update & view appointments for a doctor.
+
+Steps to run doctor-appointment-system in windows.
 
 i) To install Virtual Environment package , execute below command in command prompt.
 
